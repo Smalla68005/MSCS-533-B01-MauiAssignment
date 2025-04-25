@@ -1,6 +1,6 @@
 public class LocationService
 {
-    public async Task<Location> GetLocationAsync()
+    public async Task<UserLocation> GetLocationAsync()
     {
         try
         {
